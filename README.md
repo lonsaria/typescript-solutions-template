@@ -18,18 +18,18 @@ The generator creates `src/problems/0020-valid-parentheses/` containing:
 
 ## Commands
 
-| Command | Purpose |
-| --- | --- |
-| `npm test` | Run Vitest in watch mode |
-| `npm run test:run` | Run all tests once |
+| Command                                    | Purpose                        |
+| ------------------------------------------ | ------------------------------ |
+| `npm test`                                 | Run Vitest in watch mode       |
+| `npm run test:run`                         | Run all tests once             |
 | `npm run new -- <id> <name-in-kebab-case>` | Create a new problem directory |
-| `npm run lint` | Check source code |
-| `npm run lint:fix` | Automatically fix lint errors |
-| `npm run format` | Check formatting |
-| `npm run format:fix` | Format source code |
-| `npm run dev -- <file>` | Run a TypeScript file |
-| `npm run dev:watch -- <file>` | Run with automatic restarts |
-| `npm run typecheck` | Check types |
+| `npm run lint`                             | Check source code              |
+| `npm run lint:fix`                         | Automatically fix lint errors  |
+| `npm run format`                           | Check formatting               |
+| `npm run format:fix`                       | Format source code             |
+| `npm run dev -- <file>`                    | Run a TypeScript file          |
+| `npm run dev:watch -- <file>`              | Run with automatic restarts    |
+| `npm run typecheck`                        | Check types                    |
 
 ## Structure
 
